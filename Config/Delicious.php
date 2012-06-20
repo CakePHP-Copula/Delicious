@@ -1,6 +1,6 @@
 <?php
 /**
- * A Vimeo API Method Map
+ * A Delicious API Method Map
  *
  * Refer to the apis plugin for how to build a method map
  * https://github.com/ProLoser/CakePHP-Api-Datasources
